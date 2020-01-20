@@ -1,6 +1,6 @@
 {
   "name": "leaf-react-dates",
-  "version": "21.5.3",
+  "version": "21.5.5",
   "description": "A responsive and accessible date range picker component built with React",
   "main": "index.js",
   "scripts": {
